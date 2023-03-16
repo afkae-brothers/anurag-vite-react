@@ -1,5 +1,7 @@
 {
   "name": "vite-project",
+  "homepage": "https://betatest01.com/ViteReactMUI",
+  "description": "my react application",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,13 +13,16 @@
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
+    "@hookform/resolvers": "^2.9.11",
     "@mui/material": "^5.11.13",
     "localforage": "^1.10.0",
     "match-sorter": "^6.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-hook-form": "^7.43.5",
     "react-router-dom": "^6.9.0",
-    "sort-by": "^1.2.0"
+    "sort-by": "^1.2.0",
+    "zod": "^3.21.4"
   },
   "devDependencies": {
     "@types/react": "^18.0.27",
